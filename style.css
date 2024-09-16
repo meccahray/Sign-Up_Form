@@ -1,0 +1,99 @@
+#bg-video{
+	object-fit: cover;
+	position: fixed;
+	z-index: -1;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	width: 100vw;
+}
+
+h1{
+	font-family: "ROG Fonts", Times, serif;
+	text-shadow: 3px 2px #3F364C;
+}
+h2{
+	font-family: "ROG Fonts", Times, serif;
+	font-size: 15px;
+	text-shadow: 3px 2px #3F364C;
+}
+
+div.a{
+	text-align: right;
+	text-align: justified;
+	font-family: "ROG Fonts", Times, serif;
+	color: Black;
+	font-size: 20px;
+	}
+
+
+.suform {
+	
+	position: absolute;
+	top: 70px;
+	right: 100px;
+	float: right;
+	height: 400px;
+	width: 300px;
+}
+
+.register {
+	background-color: #FF0000;
+	font-family: "ROG Fonts", Times, serif;
+	font-size: 18px;
+	text-align: center;
+	opacity: 0.5;
+	text-shadow: 0px;
+	border: none;
+}
+
+.register:hover {
+	opacity: 1;
+}
+
+.2fon {
+	font-family: "Arial", Times, Serif;
+	color: "white";
+	font-size: 10px;
+	left: 0;
+}
+#logo{
+	position: fixed;
+	float;
+
+}
+.textar {
+	top: 170px;
+	position: absolute;
+	left: 150px;
+	float: left;
+	height: 450px;
+	width: 300px;
+}
+.botprt {
+	position: absolute;
+	bottom: 0px;
+	float: bottom;
+}
+.logoar{
+	postion: absolute;
+	left: 0px;
+	top: 0px;
+	float: top;
+}
+
+a:link {
+	color: #BB8EFF;
+}
+a:visited {
+	color: #BB8EFF;
+}
+.desn {
+	width: 60px;
+	height: 700px;
+	background-color: white;
+	border-radius: 1px;
+	margin: auto;
+	right: 500px;
+}
